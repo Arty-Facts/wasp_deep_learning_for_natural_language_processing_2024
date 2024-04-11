@@ -8,3 +8,4 @@ __pycache__
 .tox
 project/dredze_amazon_reviews.tsv
 project/dredze_amazon_reviews.zip
+project/optuna.db
