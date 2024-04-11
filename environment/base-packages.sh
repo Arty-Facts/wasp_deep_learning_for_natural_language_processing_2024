@@ -16,5 +16,6 @@ apt install -y --no-install-recommends --fix-missing\
     python3.10\
     software-properties-common\
     sudo\
+    wget\
     unzip\
     vim
