@@ -16,3 +16,5 @@ pandas
 scikit-learn
 spacy[cuda11x]
 tqdm
+transformers[torch]
+seaborn
