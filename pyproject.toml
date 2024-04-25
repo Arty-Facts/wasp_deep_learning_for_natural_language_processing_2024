@@ -26,7 +26,7 @@ classifiers = [
 dynamic = ["dependencies"]
 
 [tool.setuptools.dynamic]
-dependencies = {file = ["environment/requirements.txt"]}
+dependencies = {file = ["requirements.txt"]}
 
 [project.scripts]
 hello = "project.helloworld:main"
