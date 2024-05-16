@@ -10,5 +10,6 @@ exercises/dredze_amazon_reviews.tsv
 exercises/dredze_amazon_reviews.zip
 exercises/optuna.db
 exercises/finetuned/*
+exercises/headtuned/*
 exercises/finetuned_head/* 
 exercises/tmp_trainer/*   

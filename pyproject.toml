@@ -3,14 +3,14 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 
-[project]
+[assignments]
 name = "wasp_nlp_2024"
 version = "0.0.0"
 authors = [
     {name = "Arturas Aleksandraus", email = "arturas@aleksandraus.se"},
 ]
 
-description = "Template for ML experiments"
+description = "Assignments for WASP Deep Learning for NLP 2024 course"
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
@@ -28,10 +28,5 @@ dynamic = ["dependencies"]
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
 
-[project.scripts]
-hello = "project.helloworld:main"
-setup_mysql = "project.setup_mysql:main"
-
 [tool.setuptools]
-packages = ["project"]
-
+packages = ["assignments"]
