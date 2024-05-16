@@ -22,3 +22,4 @@ transformers[torch]
 seaborn
 datasets
 sentence-transformers
+evaluate
