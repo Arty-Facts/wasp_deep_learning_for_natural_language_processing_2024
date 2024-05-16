@@ -6,9 +6,9 @@ __pycache__
 *.egg-info/
 .coverage
 .tox
-project/dredze_amazon_reviews.tsv
-project/dredze_amazon_reviews.zip
-project/optuna.db
-project/finetuned/*
-project/finetuned_head/* 
-project/tmp_trainer/*   
+exercises/dredze_amazon_reviews.tsv
+exercises/dredze_amazon_reviews.zip
+exercises/optuna.db
+exercises/finetuned/*
+exercises/finetuned_head/* 
+exercises/tmp_trainer/*   
