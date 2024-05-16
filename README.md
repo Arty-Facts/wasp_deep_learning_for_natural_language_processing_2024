@@ -16,7 +16,7 @@ dockipy [script].py
 ### Run Jupyter server
 
 ```
-dockibook project/
+dockibook <working_dir>
 ```
 you can now access the jupyter server on: 
 http://localhost:8888/?token=ood_nlp
