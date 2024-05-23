@@ -8,6 +8,7 @@ name = "wasp_nlp_2024"
 version = "0.0.0"
 authors = [
     {name = "Arturas Aleksandraus", email = "arturas@aleksandraus.se"},
+    {name = "Nithesh Chandher Karthikeyan", email = "nithesh.chandher1997@gmail.com"},
 ]
 
 description = "Assignments for WASP Deep Learning for NLP 2024 course"
