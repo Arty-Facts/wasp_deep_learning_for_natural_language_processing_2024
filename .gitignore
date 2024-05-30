@@ -13,3 +13,4 @@ exercises/finetuned/*
 exercises/headtuned/*
 exercises/finetuned_head/* 
 exercises/tmp_trainer/*   
+assignments/graphs.jsonl
